@@ -12,7 +12,7 @@
    viewBox="0 0 16.933333 16.933333"
    height="63.999996"
    width="64"
-   sodipodi:docname="stable.svg"
+   sodipodi:docname="border.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -49,7 +49,7 @@
     </rdf:RDF>
   </metadata>
   <g
-     transform="translate(-42.484513,-141.5762)"
+     transform="matrix(-1,0,0,1,59.417847,-141.5762)"
      id="layer1"
      style="fill:#d97634;fill-opacity:1">
     <g
@@ -67,7 +67,7 @@
          id="path6369"
          inkscape:connector-curvature="0" />
       <g
-         style="fill:#d97634;stroke-width:9.48558712;fill-opacity:1"
+         style="fill:#d97634;fill-opacity:1;stroke-width:9.48558712"
          transform="matrix(0.10546875,0,0,0.10537746,646.84031,65.69261)"
          id="g3435" />
     </g>

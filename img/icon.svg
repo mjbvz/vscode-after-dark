@@ -12,7 +12,7 @@
    viewBox="0 0 16.933333 16.933333"
    height="63.999996"
    width="64"
-   sodipodi:docname="vs2.svg"
+   sodipodi:docname="icon.svg"
    inkscape:version="0.92.2 5c3e80d, 2017-08-06">
   <sodipodi:namedview
      pagecolor="#ffffff"
@@ -44,12 +44,12 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
   <g
-     transform="matrix(-1.3653857,0,0,-1.3653857,73.516416,212.16084)"
+     transform="matrix(1.3653857,0,0,-1.3653857,-58.394446,212.16084)"
      id="layer1"
      style="fill:#d97634;fill-opacity:1">
     <g
